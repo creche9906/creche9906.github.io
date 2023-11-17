@@ -1,4 +1,4 @@
-- title: Home
+- title: Homepage
   href: index.html
 
 - title: About
@@ -7,7 +7,7 @@
 - title: Posts
   href: list/posts.html
 
-- title: Documentation
+- title: Document
   href: list/projects.html
 
 
