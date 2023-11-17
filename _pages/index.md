@@ -9,7 +9,7 @@ title: Welcome to Friday Theme
 
 {% include components/intro.md %}
 
-[Here's the full feature list and some quick examples of what it can do.]({{ site.baseurl}}{% link _pages/about.md %})
+[Here's the information of me.]({{ site.baseurl}}{% link _pages/about.md %})
 
 
 
