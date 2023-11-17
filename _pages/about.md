@@ -13,7 +13,12 @@ images:
 
 {% include components/intro.md %}
 
+## who am i?
+Kim dong young
+pukyoung national university college student
+
 ## what i'm doing
 *make git-io site with jekyll 
 *site modifing based on friday theme
+
 
